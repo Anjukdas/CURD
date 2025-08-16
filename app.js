@@ -1,5 +1,5 @@
 const mongoose = require('mongoose')
-const port = 3005;
+const port = 3006;
 const express = require('express')
 const productRouter =require('./routers/productRouter')
 
